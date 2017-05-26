@@ -1,5 +1,4 @@
 <?php
-echo my_filter("2016 Tad's shop 2", "string");
 //可根據指定資料類型來過濾變數
 function my_filter($var, $type = "int")
 {
